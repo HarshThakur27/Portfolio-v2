@@ -4,7 +4,7 @@ import TypedText from "./TypedText";
 const Home = () => {
   return (
     <div>
-        <div className="mt-4 bg-gradient-to-r from-gray-900 to-gray-800 text-white px-6 sm:px-12 md:px-20 lg:px-28 py-10 h-auto flex flex-col items-center text-center lg:text-left">
+        <div className=" bg-gradient-to-r from-gray-900 to-gray-800 text-white px-6 sm:px-12 md:px-20 lg:px-28 py-10 h-auto flex flex-col items-center text-center lg:text-left">
   <div className="w-full max-w-3xl">
     <div className="text-4xl font-bold text-white">Hi!</div>
 
