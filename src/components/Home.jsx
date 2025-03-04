@@ -18,7 +18,7 @@ const Home = () => {
       Discover my journey as a <span className="text-blue-600 font-semibold">Software Developer</span> and explore my work.
     </p>
 
-    <a href="hr2.pdf" download="Harsh_Resume.pdf">
+    <a href="harsh.pdf" download="Harsh_Resume.pdf">
       <div className="bg-gradient-to-r from-red-500 to-red-700 w-48 text-lg font-semibold p-3 mt-6 rounded-lg text-white transition-transform duration-300 hover:scale-105 hover:shadow-lg">
         Download Resume
       </div>
